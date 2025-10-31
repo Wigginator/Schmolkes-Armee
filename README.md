@@ -1,2 +1,2 @@
 # Schmolkes-Armee
-Doungeon Crawler INF AG Schmolke
+Dungeon Crawler INF AG Schmolke
