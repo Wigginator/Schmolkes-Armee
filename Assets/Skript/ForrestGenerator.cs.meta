@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e5fa94d0f3bd8ed4d98a369981cf746d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mapTexture: {fileID: 2800000, guid: 77171f9da2aa5204b8992ce4cf30e0b8, type: 3}
+  - mainTreePrefab: {fileID: 1681419832196955205, guid: 2c067aa61361e624f840ba868224432f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
