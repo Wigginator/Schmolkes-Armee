@@ -1,2 +1,2 @@
-# Schmolkes-Armee
-Doungeon Crawler INF AG Schmolke
+# Inventar
+Alles was das Inventar betrifft
